@@ -1,0 +1,20 @@
+*{
+    margin:0 ;
+    padding: 0%;
+}
+
+.nav{
+    display: flex;
+    background: rgba(black, grey, black, grey);
+}
+
+.logo{
+    font-size: medium;
+}
+
+.navbar{
+    display: ;
+    text-decoration: none;
+    float: right;
+
+}
